@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { isEmpty, each, keys } from 'underscore';
 import Components from '../model/Components';
 import ComponentsView from './ComponentsView';

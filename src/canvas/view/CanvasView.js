@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { bindAll } from 'underscore';
 import {
   on,

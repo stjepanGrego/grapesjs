@@ -1,5 +1,5 @@
 import { template } from 'underscore';
-import Backbone from 'backbone';
+
 import fetch from 'utils/fetch';
 
 export default Backbone.View.extend(

@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { bindAll, isElement, isUndefined, debounce } from 'underscore';
 import {
   on,

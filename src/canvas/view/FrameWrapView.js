@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import FrameView from './FrameView';
 import { bindAll, isNumber, isNull, debounce } from 'underscore';
 import { createEl, motionsEv } from 'utils/dom';

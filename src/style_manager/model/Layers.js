@@ -1,5 +1,5 @@
 import { isUndefined } from 'underscore';
-import Backbone from 'backbone';
+
 import Layer from './Layer';
 
 export default Backbone.Collection.extend({

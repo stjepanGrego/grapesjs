@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import Component from 'dom_components/model/Component';
 import CssRules from 'css_composer/model/CssRules';
 import { isString } from 'underscore';

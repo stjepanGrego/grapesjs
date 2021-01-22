@@ -1,5 +1,5 @@
 import { extend } from 'underscore';
-import Backbone from 'backbone';
+
 
 export default Backbone.Model.extend({
   mapModel(model) {

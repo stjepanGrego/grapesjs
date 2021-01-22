@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import Frame from './Frame';
 import Frames from './Frames';
 

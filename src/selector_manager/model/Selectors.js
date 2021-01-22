@@ -1,5 +1,5 @@
 import { filter } from 'underscore';
-import Backbone from 'backbone';
+
 import Selector from './Selector';
 
 export default Backbone.Collection.extend({

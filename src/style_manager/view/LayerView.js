@@ -1,5 +1,5 @@
 import { isString, each } from 'underscore';
-import Backbone from 'backbone';
+
 import PropertiesView from './PropertiesView';
 
 export default Backbone.View.extend({

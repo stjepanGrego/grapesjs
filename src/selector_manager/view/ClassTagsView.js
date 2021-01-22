@@ -1,5 +1,5 @@
 import { isEmpty, isArray, isString, debounce } from 'underscore';
-import Backbone from 'backbone';
+
 import ClassTagView from './ClassTagView';
 
 export default Backbone.View.extend({

@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { appendStyles } from 'utils/mixins';
 
 const $ = Backbone.$;

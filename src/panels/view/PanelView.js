@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import ButtonsView from './ButtonsView';
 
 export default Backbone.View.extend({

@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { isString, isUndefined } from 'underscore';
 import TraitView from './TraitView';
 

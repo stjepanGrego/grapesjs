@@ -1,6 +1,6 @@
 import { isUndefined, isString } from 'underscore';
 import { getModel } from 'utils/mixins';
-import Backbone from 'backbone';
+
 import ComponentView from 'dom_components/view/ComponentView';
 import { eventDrag } from 'dom_components/model/Component';
 

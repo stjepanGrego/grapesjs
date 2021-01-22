@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 const $ = Backbone.$;
 
 describe('E2E tests', () => {

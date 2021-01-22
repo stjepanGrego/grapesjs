@@ -1,5 +1,5 @@
 import { map } from 'underscore';
-import Backbone from 'backbone';
+
 import Styleable from 'domain_abstract/model/Styleable';
 import { isEmpty, forEach } from 'underscore';
 import Selectors from 'selector_manager/model/Selectors';

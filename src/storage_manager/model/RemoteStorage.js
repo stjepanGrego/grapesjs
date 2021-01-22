@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import fetch from 'utils/fetch';
 import { isUndefined, isFunction } from 'underscore';
 

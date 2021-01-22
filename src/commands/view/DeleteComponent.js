@@ -1,5 +1,5 @@
 import { extend, bindAll } from 'underscore';
-import Backbone from 'backbone';
+
 import SelectComponent from './SelectComponent';
 
 const $ = Backbone.$;

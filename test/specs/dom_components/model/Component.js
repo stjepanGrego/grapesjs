@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import DomComponents from 'dom_components';
 import Component from 'dom_components/model/Component';
 import ComponentImage from 'dom_components/model/ComponentImage';

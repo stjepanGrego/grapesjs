@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { extend, isString, isArray } from 'underscore';
 import { isTaggableNode } from 'utils/mixins';
 import { appendAtIndex } from 'utils/dom';

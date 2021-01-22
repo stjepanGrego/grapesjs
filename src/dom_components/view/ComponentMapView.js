@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import ComponentView from './ComponentImageView';
 
 export default ComponentView.extend({

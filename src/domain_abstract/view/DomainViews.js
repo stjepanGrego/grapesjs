@@ -1,5 +1,5 @@
 import { includes } from 'underscore';
-import Backbone from 'backbone';
+
 
 export default Backbone.View.extend({
   // Default view

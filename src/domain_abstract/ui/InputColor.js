@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { isUndefined } from 'underscore';
 import ColorPicker from 'utils/ColorPicker';
 import Input from './Input';

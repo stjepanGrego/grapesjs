@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import PropertyView from './PropertyView';
 
 const $ = Backbone.$;

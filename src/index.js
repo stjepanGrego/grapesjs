@@ -21,7 +21,6 @@ const defaultConfig = {
 
 export default {
   $,
-
   editors,
 
   plugins,

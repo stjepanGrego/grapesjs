@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { isUndefined, isString, isFunction } from 'underscore';
 import { capitalize } from 'utils/mixins';
 

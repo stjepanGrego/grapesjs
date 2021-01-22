@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import Layers from 'navigator';
 
 const $ = Backbone.$;

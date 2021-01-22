@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import ButtonView from './ButtonView';
 import { result } from 'underscore';
 

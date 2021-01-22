@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { isString, isObject, bindAll } from 'underscore';
 import BlockView from './BlockView';
 import CategoryView from './CategoryView';
