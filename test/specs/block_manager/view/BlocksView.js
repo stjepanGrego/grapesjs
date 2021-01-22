@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import BlocksView from 'block_manager/view/BlocksView';
 import Blocks from 'block_manager/model/Blocks';
 

@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import AssetImage from './AssetImage';
 import AssetImageView from './../view/AssetImageView';
 import TypeableCollection from 'domain_abstract/model/TypeableCollection';

@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { clone } from 'underscore';
 
 export default Backbone.View.extend({

@@ -1,5 +1,5 @@
 import { extend, bindAll } from 'underscore';
-import Backbone from 'backbone';
+
 import { on, off } from 'utils/mixins';
 import SelectComponent from './SelectComponent';
 import SelectPosition from './SelectPosition';

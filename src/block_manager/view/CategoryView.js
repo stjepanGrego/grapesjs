@@ -1,5 +1,5 @@
 import { template } from 'underscore';
-import Backbone from 'backbone';
+
 
 export default Backbone.View.extend({
   template: template(`

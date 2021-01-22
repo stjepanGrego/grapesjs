@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import TypeableCollection from 'domain_abstract/model/TypeableCollection';
 import Property from './Property';
 import PropertyStack from './PropertyStack';

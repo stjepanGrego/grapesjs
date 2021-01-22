@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import CssRuleView from './CssRuleView';
 import CssGroupRuleView from './CssGroupRuleView';
 

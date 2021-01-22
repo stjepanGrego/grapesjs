@@ -1,5 +1,5 @@
 import { bindAll } from 'underscore';
-import Backbone from 'backbone';
+
 import CodeMirror from 'codemirror/lib/codemirror';
 import 'codemirror/mode/htmlmixed/htmlmixed';
 import 'codemirror/mode/css/css';

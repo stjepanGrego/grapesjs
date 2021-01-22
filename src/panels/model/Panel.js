@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import Buttons from './Buttons';
 
 export default Backbone.Model.extend({

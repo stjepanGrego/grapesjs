@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { isString, isArray } from 'underscore';
 import Trait from './Trait';
 import TraitFactory from './TraitFactory';

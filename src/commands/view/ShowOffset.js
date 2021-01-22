@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { isUndefined } from 'underscore';
 import { isTextNode } from 'utils/mixins';
 const $ = Backbone.$;

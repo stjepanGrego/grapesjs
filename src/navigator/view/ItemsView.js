@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import ItemView from './ItemView';
 import { eventDrag } from 'dom_components/model/Component';
 

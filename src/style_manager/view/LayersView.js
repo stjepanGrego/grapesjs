@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import LayerView from './LayerView';
 
 export default Backbone.View.extend({

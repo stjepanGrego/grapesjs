@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { isUndefined } from 'underscore';
 
 export default Backbone.View.extend({

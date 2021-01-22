@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { extend } from 'underscore';
 import Properties from './Properties';
 import PropertyFactory from './PropertyFactory';

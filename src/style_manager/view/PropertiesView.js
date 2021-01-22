@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { appendAtIndex } from 'utils/dom';
 
 export default Backbone.View.extend({

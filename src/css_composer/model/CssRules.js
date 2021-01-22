@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import CssRule from './CssRule';
 
 export default Backbone.Collection.extend({

@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { bindAll, isString, debounce, isUndefined } from 'underscore';
 import CssRulesView from 'css_composer/view/CssRulesView';
 import ComponentView from 'dom_components/view/ComponentView';

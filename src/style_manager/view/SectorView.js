@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { template } from 'underscore';
 import PropertiesView from './PropertiesView';
 

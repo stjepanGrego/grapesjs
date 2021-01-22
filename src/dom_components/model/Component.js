@@ -14,7 +14,7 @@ import {
 } from 'underscore';
 import { shallowDiff, capitalize, isEmptyObj } from 'utils/mixins';
 import Styleable from 'domain_abstract/model/Styleable';
-import Backbone from 'backbone';
+
 import Components from './Components';
 import Selector from 'selector_manager/model/Selector';
 import Selectors from 'selector_manager/model/Selectors';

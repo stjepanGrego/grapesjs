@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { isUndefined, each } from 'underscore';
 
 const maxValue = Number.MAX_VALUE;

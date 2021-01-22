@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import Device from './Device';
 
 export default Backbone.Collection.extend({

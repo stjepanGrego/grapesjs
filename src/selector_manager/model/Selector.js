@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import { result, forEach, keys } from 'underscore';
 
 const TYPE_CLASS = 1;

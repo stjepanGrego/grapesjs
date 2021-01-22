@@ -1,4 +1,4 @@
-import Backbone from 'backbone';
+
 import Properties from './Properties';
 
 export default Backbone.Model.extend({

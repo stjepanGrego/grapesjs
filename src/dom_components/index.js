@@ -27,7 +27,7 @@
  *
  * @module DomComponents
  */
-import Backbone from 'backbone';
+
 import { isEmpty, isObject, isArray, result } from 'underscore';
 import defaults from './config/config';
 import Component from './model/Component';
