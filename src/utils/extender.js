@@ -140,14 +140,5 @@ export default ({ $ }) => {
     $.inArray = function(val, arr, i) {
       return arr == null ? -1 : indexOf.call(arr, val, i);
     };
-
-    $.Event = function(src, props) {
-      if (!(this instanceof $.Event)) {
-        return new $.Event(src, props);
-      }
-
-      this.type = src;
-      this.isDefaultPrevented = () => false;
-    };
   }
 };
