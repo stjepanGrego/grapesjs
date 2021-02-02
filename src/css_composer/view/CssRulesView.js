@@ -2,7 +2,7 @@
 import CssRuleView from './CssRuleView';
 import CssGroupRuleView from './CssGroupRuleView';
 
-const $ = Backbone.$;
+
 
 const getBlockId = (pfx, order) =>
   `${pfx}${order ? `-${parseFloat(order)}` : ''}`;

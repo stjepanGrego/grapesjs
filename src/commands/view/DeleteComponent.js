@@ -2,7 +2,7 @@ import { extend, bindAll } from 'underscore';
 
 import SelectComponent from './SelectComponent';
 
-const $ = Backbone.$;
+
 
 export default extend({}, SelectComponent, {
   init(o) {

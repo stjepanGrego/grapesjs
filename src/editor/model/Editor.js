@@ -7,7 +7,7 @@ import {
   keys,
   bindAll
 } from 'underscore';
-import $ from 'cash-dom';
+
 import Extender from 'utils/extender';
 import { getModel } from 'utils/mixins';
 
@@ -41,7 +41,7 @@ let updateItr;
 
 Extender({
   Backbone: Backbone,
-  $: Backbone.$
+  $: $
 });
 
 const logs = {

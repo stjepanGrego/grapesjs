@@ -11,7 +11,7 @@ import { isVisible, isDoc } from 'utils/dom';
 import ToolbarView from 'dom_components/view/ToolbarView';
 import Toolbar from 'dom_components/model/Toolbar';
 
-const $ = Backbone.$;
+
 let showOffsets;
 /**
  * This command is responsible for show selecting components and displaying

@@ -16,7 +16,7 @@ import {
   isTextNode,
   getModel
 } from 'utils/mixins';
-const $ = Backbone.$;
+
 
 export default Backbone.View.extend({
   initialize(opt) {

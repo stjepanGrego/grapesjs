@@ -1,7 +1,7 @@
 
 import { appendStyles } from 'utils/mixins';
 
-const $ = Backbone.$;
+
 
 export default Backbone.View.extend({
   initialize() {

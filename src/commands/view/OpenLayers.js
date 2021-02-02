@@ -1,7 +1,7 @@
 
 import Layers from 'navigator';
 
-const $ = Backbone.$;
+
 
 export default {
   run(editor) {

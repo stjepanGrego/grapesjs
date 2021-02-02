@@ -1,7 +1,7 @@
 
 import { isUndefined } from 'underscore';
 import { isTextNode } from 'utils/mixins';
-const $ = Backbone.$;
+
 
 export default {
   getOffsetMethod(state) {

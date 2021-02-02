@@ -5,7 +5,7 @@ import ComponentView from 'dom_components/view/ComponentView';
 import { eventDrag } from 'dom_components/model/Component';
 
 const inputProp = 'contentEditable';
-const $ = Backbone.$;
+
 let ItemsView;
 
 export default Backbone.View.extend({

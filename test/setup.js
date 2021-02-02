@@ -20,5 +20,4 @@ global.Backbone = Backbone;
 global._ = _;
 global.sinon = sinon;
 global.grapesjs = grapesjs;
-global.$ = Backbone.$;
 global.localStorage = localStorage;
