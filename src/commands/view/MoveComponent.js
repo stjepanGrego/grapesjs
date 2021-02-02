@@ -4,7 +4,7 @@ import { on, off } from 'utils/mixins';
 import SelectComponent from './SelectComponent';
 import SelectPosition from './SelectPosition';
 
-const $ = Backbone.$;
+
 
 export default extend({}, SelectPosition, SelectComponent, {
   init(o) {

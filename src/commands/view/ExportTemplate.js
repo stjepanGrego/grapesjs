@@ -1,5 +1,5 @@
 
-const $ = Backbone.$;
+
 
 export default {
   run(editor, sender, opts = {}) {

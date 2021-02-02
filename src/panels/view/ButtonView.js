@@ -1,7 +1,7 @@
 
 import { isString, isObject, isFunction } from 'underscore';
 
-const $ = Backbone.$;
+
 
 export default Backbone.View.extend({
   tagName() {

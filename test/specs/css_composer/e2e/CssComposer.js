@@ -1,5 +1,5 @@
 
-const $ = Backbone.$;
+
 
 describe('E2E tests', () => {
   var fixtures;

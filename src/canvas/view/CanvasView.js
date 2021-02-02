@@ -10,7 +10,7 @@ import {
 } from 'utils/mixins';
 import FramesView from './FramesView';
 
-const $ = Backbone.$;
+
 let timerZoom;
 
 export default Backbone.View.extend({

@@ -2,7 +2,7 @@ import { isString } from 'underscore';
 
 import PropertyView from './PropertyView';
 
-const $ = Backbone.$;
+
 
 export default PropertyView.extend({
   templateInput() {

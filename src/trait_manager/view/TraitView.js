@@ -2,7 +2,7 @@
 import { isUndefined, isString, isFunction } from 'underscore';
 import { capitalize } from 'utils/mixins';
 
-const $ = Backbone.$;
+
 
 export default Backbone.View.extend({
   events: {},

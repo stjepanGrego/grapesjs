@@ -2,7 +2,7 @@
 import { isString, isUndefined } from 'underscore';
 import TraitView from './TraitView';
 
-const $ = Backbone.$;
+
 
 export default TraitView.extend({
   init() {

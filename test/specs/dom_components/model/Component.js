@@ -10,7 +10,7 @@ import ComponentVideo from 'dom_components/model/ComponentVideo';
 import Components from 'dom_components/model/Components';
 import Selector from 'selector_manager/model/Selector';
 import Editor from 'editor/model/Editor';
-const $ = Backbone.$;
+
 
 let obj;
 let dcomp;

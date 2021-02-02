@@ -3,7 +3,7 @@ import { bindAll, isUndefined, indexOf } from 'underscore';
 import { on, off } from 'utils/mixins';
 import Input from './Input';
 
-const $ = Backbone.$;
+
 
 export default Input.extend({
   events: {
